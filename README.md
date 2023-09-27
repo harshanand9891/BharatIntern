@@ -15,13 +15,20 @@ Conclusion:
 In conclusion, the developed stock price prediction model using LSTM demonstrates promising results with an R-squared accuracy of 91.6%. This indicates that the model is able to capture and learn from the historical price patterns effectively, leading to reasonably accurate predictions. However, it is important to note that further testing and validation on diverse datasets and consideration of external factors are necessary to ensure its reliability and applicability in real-world scenarios.
 
 ====================================================================================
-HAND WRITTEN DIGIT RECOGNITION
-About this project:
+HAND-WRITTEN DIGIT RECOGNITION
+About this project: 
 
+This project is a Handwritten Digit Recognition system that uses machine learning techniques to recognize and classify handwritten digits. It can be used for various applications, such as digitizing handwritten notes, automatic postal code recognition, and more.
 
 
 Scope:
 
+A handwritten Digit Recognition project typically involves building a simple system to recognize and classify handwritten digits using machine learning techniques. The primary objective is to develop a system that can accurately recognize and classify handwritten digits. The system should take an input image containing a single digit and predict the corresponding digit.
+
 
 
 Conclusion:
+
+The Handwritten Digit Recognition project has achieved its primary objective of developing a system capable of accurately recognizing and classifying handwritten digits using machine learning techniques. 
+
+Throughout the project, we have covered key aspects, including data collection and preprocessing, the implementation of a basic machine learning model, evaluation of model performance, and the creation of a user-friendly interface
